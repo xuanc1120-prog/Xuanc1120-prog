@@ -8,22 +8,14 @@
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cherry%20Blossom.png" alt="Cherry Blossom" width="25" height="25" /> 关于我
-> **“当世界年轻时 
-When the world was young”**
+### 🌸 关于我
+> **“当世界年轻时 / When the world was young”**
 
-你好！我是 **xuanc**，一名对人工智能充满热情的大三学生。我的旅程始于 Astrbot ——它让我看到了 AI 伴侣可能和agent的强大。这使我致力于掌握 AI Agent 开发、并努力去参与构建 AGI 未来。
+你好！我是 **xuanc**，一名对人工智能充满热情的大三学生。我的旅程始于 Astrbot 带来的灵感火花——它让我看到了 AI 伴侣的无限潜力。这颗种子迅速生根发芽，变成了我致力于掌握 AI Agent 开发、并努力去参与构建 AGI 未来的不竭动力。
 
-- 🎓 **大三**，正在探索广袤的 AI 应用宇宙，寻找对应的实习
-- 🎯 **当前专注：** AI Agents、AGI 研究，以及将天马行空的创新想法变为现实（如果有这个能力的话）。
-
-<br/>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Leaf%20Fluttering%20in%20Wind.png" alt="Leaf" width="25" height="25" /> 极客数据 (GitHub Stats)
-<div align="center">
-  <!-- Replaced Trophies with GitHub Stats Card (Sakura & Green Theme) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=xuanc1120-prog&show_icons=true&theme=transparent&hide_border=true&title_color=E2849F&icon_color=E2849F&text_color=7CB342" alt="GitHub Stats" />
-</div>
+- 🎓 **大三在读**，正在探索广袤的 AI 应用宇宙。
+- 🎯 **当前专注：** AI Agents、AGI 研究，以及将天马行空的创新想法变为现实。
+- 📚 **阅读偏好：** 99% 的时间看 GitHub README，1% 的时间看实体书。
 
 <br/>
 
@@ -40,7 +32,7 @@ When the world was young”**
 
 **🎮 日常掉落**
 
-在游戏和二次元中放松自我。
+在虚拟世界（打游戏）和二次元故事（看番）中放松自我并寻找代码之外的灵感。
 </td>
 <td width="40%" align="center" valign="middle">
   
@@ -57,25 +49,23 @@ When the world was young”**
 
 <br/>
 
-### 🛠️ 技术栈与语言分布
+### 🛠️ 技术栈 
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <b>🤖 我的技术栈</b><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /><br/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /><br/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    </td>
-    <td align="center" width="50%">
-      <b>📊 语言雷达图</b><br/><br/>
-      <!-- Top Languages with Sakura colors -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuanc1120-prog&layout=compact&theme=transparent&hide_border=true&title_color=E2849F&text_color=7CB342" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <b>🤖 我的 AI 武器库</b><br/><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+<br/>
+
+### 📈 代码心跳图 (Activity Graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xuanc1120-prog&theme=transparent&hide_border=true&area=true&color=E2849F&line=ffa6b7&point=E2849F" alt="Activity Graph" width="100%" />
+</p>
 
 <br/>
 
@@ -95,4 +85,5 @@ When the world was young”**
 <div align="center">
   <i><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cherry%20Blossom.png" alt="Cherry Blossom" width="15" height="15" /> 保持探索，持续创造。 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Leaf%20Fluttering%20in%20Wind.png" alt="Leaf" width="15" height="15" /></i>
 </div>
+
 
