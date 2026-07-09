@@ -9,9 +9,9 @@
 <br/>
 
 ### 🌸 关于我
-> **When the world was young”**
+> **"When the world was young"**
 
-你好！我是 **xuanc**，一名对ai充满的大三学生。我的始于 Astrbot ——它让我看到了现在AI 的智能程度以及agent的强大之处。这变成了我致力于掌握 AI Agent 开发、并努力去参与构建 AGI 未来的不竭动力。
+Hi there！我是 **xuanc**，一名对ai充满兴趣的大三学生。我的ai之旅始于 Astrbot ————它让我看到了现在AI 的智能程度以及agent的强大之处。这变成了我致力于掌握 AI Agent 开发、并努力去参与构建 AGI 未来的不竭动力。
 
 - 🎓 **大三**，正在学习 AI 应用开发方向的知识。
 - 🎯 **方向：** AI Agents、AGI 研究，以及将天马行空的创新想法变为现实（如果能做到的话）。
@@ -31,17 +31,17 @@
 
 **🎮 爱好**
 
-游戏和二次元。
+游戏和二次元
 </td>
 <td width="40%" align="center" valign="middle">
   
-**🎵 音乐循环 (QQ音乐)**
+**🎵 音乐 (QQ音乐)**
 <br/><br/>
 <a href="https://y.qq.com/">
   <img src="https://img.shields.io/badge/🎵_QQ_Music-Listen_to_my_Vibe-12B7F5?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ Music Playlist" />
 </a>
 <br/>
-*(点击探索我的宝藏歌单)*
+*(点击（click）)*
 </td>
 </tr>
 </table>
@@ -61,7 +61,7 @@
 
 <br/>
 
-### 📈  
+### 📈commit changes grapgh
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xuanc1120-prog&theme=transparent&hide_border=true&area=true&color=E2849F&line=ffa6b7&point=E2849F" alt="Activity Graph" width="100%" />
 </p>
@@ -82,7 +82,7 @@
 <br/>
 
 <div align="center">
-  <i><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cherry%20Blossom.png" alt="Cherry Blossom" width="15" height="15" /> 保持探索，持续创造。 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Leaf%20Fluttering%20in%20Wind.png" alt="Leaf" width="15" height="15" /></i>
+  <i><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cherry%20Blossom.png" alt="Cherry Blossom" width="15" height="15" /> 保持探索，持续创造... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Leaf%20Fluttering%20in%20Wind.png" alt="Leaf" width="15" height="15" /></i>
 </div>
 
 
