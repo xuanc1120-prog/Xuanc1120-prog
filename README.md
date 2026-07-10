@@ -16,9 +16,9 @@
 
 你好！我是 **xuanc**，一名对人工智能充满热情的大三学生。我的旅程始于 Astrbot 带来的灵感火花——它让我看到了 AI 伴侣的无限潜力。这颗种子迅速生根发芽，变成了我致力于掌握 AI Agent 开发、并努力去参与构建 AGI 未来的不竭动力。
 
-- 🎓 **大三在读**，正在探索广袤的 AI 应用宇宙。
-- 🎯 **当前专注：** AI Agents、AGI 研究，以及将天马行空的创新想法变为现实。
-- 📚 **阅读偏好：** 99% 的时间看 GitHub README，1% 的时间看实体书。
+- **大三**，正在探索广袤的 AI 应用宇宙。
+- **方向：** AI Agents、AGI 研究，以及将天马行空的创新想法变为现实。
+
 
 <br/>
 
@@ -28,14 +28,14 @@
 <tr>
 <td width="60%" valign="top">
   
-**💡 AI 灵感碎片**
+**💡思考**
 
 *最近在思考：* 
-如何赋予自主智能体（Autonomous Agents）长期的泛化记忆？通往 AGI 的探索永不停歇。
+如何赋予agent长期全面的泛化记忆？
 
-**🎮 日常掉落**
+**🎮爱好**
 
-在虚拟世界（打游戏）和二次元故事（看番）中放松自我并寻找代码之外的灵感。
+游戏和二次元，平常还喜欢琢磨琢磨单片机，整点小玩具。
 </td>
 <td width="40%" align="center" valign="middle">
   
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/🎵_QQ_Music-Listen_to_my_Vibe-12B7F5?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ Music Playlist" />
 </a>
 <br/>
-*(点击探索我的宝藏歌单)*
+*(点击/click)*
 </td>
 </tr>
 </table>
@@ -55,7 +55,7 @@
 ### 🛠️ 技术栈 
 
 <p align="center">
-  <b>🤖 我的 AI 武器库</b><br/><br/>
+  <b>技术栈</b><br/><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
@@ -65,14 +65,14 @@
 
 <br/>
 
-### 📈 代码心跳图 (Activity Graph)
+### 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xuanc1120-prog&theme=transparent&hide_border=true&area=true&color=E2849F&line=ffa6b7&point=E2849F" alt="Activity Graph" width="100%" />
 </p>
 
 <br/>
 
-### 🐍 代码贪吃蛇 (GitHub Snake)
+### 
 
 <p align="center">
   <!-- Dynamic Snake with Sakura Colors -->
